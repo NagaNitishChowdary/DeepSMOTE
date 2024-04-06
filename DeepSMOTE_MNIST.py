@@ -1,10 +1,9 @@
-
-import collections
-import torch
 import torch.nn as nn
 from torch.utils.data import TensorDataset
 import numpy as np
 from sklearn.neighbors import NearestNeighbors
+import collections
+import torch
 import time
 import os
 
